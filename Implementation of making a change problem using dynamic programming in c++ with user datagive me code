@@ -46,3 +46,11 @@ int main() {
 
     return 0;
 }
+OUTPUT :
+Enter the number of coin denominations: 4
+Enter the coin values: 1
+5
+10
+25
+Enter the target amount: 25
+Minimum coins required: 1
